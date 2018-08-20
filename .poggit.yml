@@ -1,5 +1,7 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/PMExpertsDE/SoupFFA-PMExperts
 branches:
 - master
-projects: "/"
+projects:
+ SoupFFA-PMExperts
+  path: "/"
 ...
