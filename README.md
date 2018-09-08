@@ -2,7 +2,7 @@
 ---
 | Discord |
 | :-----: |
-[![Discord](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/M7aQfm) |
+[![Discord](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/RukA7Zr) |
 
 ### Description:
 Clean SoupFFA Game
